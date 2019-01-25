@@ -8,7 +8,7 @@
    Here is a pdf file that I used for presentations
   <object data="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">
-        <p>This browser does not support PDFs. Please click here to view the PDF: <a     href="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please click here to view the PDF: <a     href="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">View PDF</a>.</p>
     </embed>
 </object>
   
