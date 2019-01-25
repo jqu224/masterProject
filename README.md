@@ -5,7 +5,7 @@
   to execute: run .m file named 0zero to 0sixth in order
   
   
-  ###zero_basic_plots: 
+  # zero_basic_plots: 
                   select .wav file and plot its features (could be randomized using randi() function) 
                                    
                   choosedialog_art.m: Choose a filename
