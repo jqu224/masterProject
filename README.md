@@ -1,6 +1,17 @@
   cee master project
   by jiacheng qu
   2017.1.1
+  ![Front](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_0.jpg)
+  ![Objectives](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_1.jpg)
+  ![Approach](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_2.jpg)
+  ![Pipeline](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_3.jpg)
+  ![parameters](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_4.jpg)
+  ![Doppler Effects](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_5.jpg)
+  ![PSD Estimate](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_6.jpg)
+  ![Box Plots](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_7.jpg)
+  ![Scatter Plots](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_8.jpg)
+  ![Take-away](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_9.jpg)
+  ![Thanks](https://github.com/jqu224/masterProject/blob/master/PDF_files/JQu_Spectral_x.jpg)
   
   to execute: run .m file named 0zero to 0sixth in order
   
