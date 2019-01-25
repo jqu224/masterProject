@@ -300,7 +300,7 @@ grid on
 ylim ([0 2]);
 xlim ([0 24]);
 % axis([0 24 0 (max(N_single)+1)]);
-ylabel('N´ [sone/Bark]')
+ylabel('NÂ´ [sone/Bark]')
 xlabel('z [Bark]')
 text(0.4, 0.8, 'N [sone] =','Units','normalized');
 % t2 = text(1,1,'N [sone] =')
