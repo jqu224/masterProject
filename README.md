@@ -5,7 +5,7 @@
   to execute: run .m file named 0zero to 0sixth in order
   
   
-  0zero_basic_plots: 
+  zero_basic_plots: 
                   select .wav file and plot its features (could be randomized using randi() function) 
                                    
                   choosedialog_art.m: Choose a filename
@@ -18,21 +18,21 @@
                                           spectrum using bar() (fig 4)
                         
   
-  0first_welch_power_density:
+  first_welch_power_density:
                   this is the very first script that saves/plots welch_power_density of a particular category of noise
                     
                   choosedialog_art_all.m:                   Choose a category
                   choosedialog_plot_power_all_avg_dba.m:    let the user choose from 'save and plot all figures on one graph' or 'pull and save the data only' 
   
   
-  0second_avg_welch_power_density: 
+  second_avg_welch_power_density: 
                   plot avg of welch_power_densit
   
                   use mean() and std() to calculate the mean and stddiv
                   call plotRstyleUncert.m to print the avg wpd for each category
                   
   
-  0third_pull_fraction_of_power: 
+  third_pull_fraction_of_power: 
                   pull the data?fraction_of_power 
   
                   choosedialog_art_all.m:                    choose a noise categroy
@@ -45,7 +45,7 @@
                   and then, name them by 'fractionofpower_' CATEGORY '.mat'
   
   
-  0fourth_notboxplot_fraction_of_power:
+  fourth_notboxplot_fraction_of_power:
                   plot 'notboxplots' of the power in different frequency bins 
   
                   load seven_octave_freq_band.mat: get the freq ranges
@@ -55,7 +55,7 @@
                   'notboxplots' by calling notBoxPlot(fractionofpower_category)
                     
   
-  0fifth_boxplot_of_fraction_of_power_side_by_side:
+  fifth_boxplot_of_fraction_of_power_side_by_side:
                   plot all the boxplots of fraction_of_power side by side 
   
                   load seven_octave_freq_band.mat: get the freq ranges
@@ -67,7 +67,7 @@
                         aircraft_fracpower = 'b' = blue
   
   
-  0sixth_gscatter_and_prediction:
+  sixth_gscatter_and_prediction:
                   plot gscatter labeled by group together with the classification process
   
                   load variance_all.mat, xmeans_all.mat, ALL_Xmean.mat; 
