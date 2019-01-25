@@ -3,9 +3,12 @@
   2017.1.1
   
   to execute: run .m file named 0zero to 0sixth in order
+  
+  ### Updates:
+   Here is a pdf file that I used for presentations
   <object data="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a     href="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please click here to view the PDF: <a     href="https://github.com/jqu224/masterProject/blob/master/JQu_Spectral_0.pdf">Download PDF</a>.</p>
     </embed>
 </object>
   
